@@ -1,4 +1,4 @@
-# KanyanPlan
+# KaoyanPlan
 
 向日葵的考研计划
 
@@ -8,7 +8,7 @@
 
 一人一团队，兼职开发人员，测试人员，产品经理，项目经理
 
-- [KanyanPlan](#kanyanplan)
+- [KaoyanPlan](#kaoyanplan)
   - [准则](#准则)
   - [学习节点](#学习节点)
   - [参考仓库](#参考仓库)
