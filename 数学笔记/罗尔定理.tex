@@ -1,10 +1,13 @@
 \documentclass[UTF8, 12pt]{ctexart}
-% UTF8编码，ctexart现实中文
-\usepackage{color}
+\usepackage{xcolor}
+\xeCJKsetup{CJKmath=true} 
 % 使用颜色
+\definecolor{orange}{RGB}{255,127,0} 
+\definecolor{violet}{RGB}{192,0,255} 
+\definecolor{aqua}{RGB}{0,255,255} 
 \usepackage{geometry}
-\setcounter{tocdepth}{4}
-\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{5}
+\setcounter{secnumdepth}{5}
 % 设置四级目录与标题
 \geometry{papersize={21cm,29.7cm}}
 % 默认大小为A4
@@ -13,28 +16,38 @@
 \usepackage{indentfirst}
 \setlength{\parindent}{2.45em}
 % 首行缩进2个中文字符
+\usepackage{amssymb}
+% 因为所以与其他数学拓展
+\usepackage{amsmath}
+% 数学公式
 \usepackage{setspace}
 \renewcommand{\baselinestretch}{1.5}
 % 1.5倍行距
-\usepackage{amssymb}
-% 因为所以
-\usepackage{amsmath}
-% 数学公式
+\usepackage{pifont}
+% 圆圈序号
+\usepackage{tikz}
+% 绘图
+\usepackage{array}
+% 设置表格行距
 \usepackage[colorlinks,linkcolor=black,urlcolor=blue]{hyperref}
 % 超链接
-\begin{document} % 开始文档
-
-
-\title{罗尔定理} % 标题
-\author{guohuiyuan} % 作者
-\date{\today} % 日期
-
-\maketitle % 创建标题
+\author{guohuiyuan}
+\title{罗尔定理}
+\date{}
+\begin{document}
+\renewcommand{\arraystretch}{1.5}
+% 表格高1.5倍
+\maketitle
+\pagestyle{empty}
+\thispagestyle{empty}
+\tableofcontents
+\thispagestyle{empty}
+\newpage
 
 \section{问题} % 创建章节标题
 设$f(x)$在$[a,b]$上连续,在$(a,b)$内可导,$0<a<b$,且$f(a)=f(b)=0$,证明:$\exists \xi \in(a,b), f^{\prime}(\xi)+p(\xi)f(\xi)=0$
 
-\section{示例}
+\section{示例1}
 设$f(x)$在$[a,b]$上连续,在$(a,b)$内可导,$0<a<b$,且$f(a)=f(b)=0$,证明:
 \begin{enumerate}
 \item 至少存在一点$\xi \in(a, b)$, 使得$2 f(\xi)+\xi f^{\prime}(\xi)=0$;
@@ -65,6 +78,13 @@ $\therefore$ 至少存在一点$\xi \in(a, b), $使得$2 f(\xi)+\xi f^{\prime}(\
 \item
 同理构造$g(x)=e^{-x^2}f(x)$
 \end{enumerate}
+
+\section{示例2}
+$设  f(x)  在  [0,1]  上二阶可导, 且  \lim _{x \rightarrow 0^{+}} \frac{f(x)}{x}=\lim _{x \rightarrow 1^{-}} \frac{f(x)}{x-1}=1 , 证明:$
+$(I) 至少存在一点  \xi \in(0,1) , 使得  f(\xi)=0 ;$
+$(II) 至少存在一点  \eta \in(0,1) , 使得  f^{\prime \prime}(\eta)=f(\eta) .$
+
+解答:
 
 \section{结论}
 遇见$f^{\prime}(\xi)+p(\xi)f(\xi)=0$类似格式的题目, 构造$g(x)=e^{\int p(x) \,dx } f(x)$, 然后使用罗尔定理解题
