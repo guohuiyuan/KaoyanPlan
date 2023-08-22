@@ -160,6 +160,8 @@ section 炎炎夏日
 
 [专为程序员编写的英语学习指南 v1.2](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 
+[考研英语作文经验贴](https://zhuanlan.zhihu.com/p/71532090)
+
 ### 408
 
 [aimto408](https://github.com/xiaolei565/aimto408)
