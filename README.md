@@ -11,6 +11,7 @@
 不要愧对自己和亲朋好友
 
 - [KaoyanPlan](#kaoyanplan)
+  - [24考研成绩](#24考研成绩)
   - [学习方法](#学习方法)
     - [政治](#政治)
     - [英语](#英语)
@@ -26,6 +27,11 @@
     - [数学](#数学-1)
     - [英语](#英语-1)
     - [408](#408)
+
+## 24考研成绩
+408炸了啊啊啊啊
+
+![](https://article.biliimg.com/bfs/new_dyn/f8073ff4af69f88724ef5c44e13983993493078960703680.png)
 
 ## 学习方法
 
@@ -177,3 +183,4 @@
 [CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408)
 
 [cs-408](https://github.com/ddy-ddy/cs-408)
+
