@@ -71,9 +71,9 @@
 >我再强调一下，首先就要排除自己比较有天赋这一谬论，除非你真有天赋。如果没有，千万不要自以为自己真有天赋，那是病，得治疗，早治疗早康复。尽快认识到自己只有下笨功夫才是唯一途径，对你的人生发展非常有帮助。我就是治好了“以为自己有天赋”这个精神病之后，生活才慢慢好起来的。当你肯下笨功夫之后，很多事反而不难了。其次，不要给自己瞎找理由，你并不需要跟很多“富二代”和天才竞争，别把自己说得那么悲壮。正如我以前说的，月收入三万以下的程序员只需要初中数学，大部分东西都跟智商和家庭没关系，做不好的主要原因就是不上心，重复次数不够，量不够。上升空间广阔，加油就是了。如果你对人生比较迷茫，没有找到方法论，可以像我一样，用笨办法，相信两件事：第一，重复就是力量。第二，欧成效说的，非常有启发：数量堆死质量。 ------《看透事物的本质套装 (套装共 2 册)》
 
 ### 408资料
-[考研408：数据结构算法题题单](https://zhuanlan.zhihu.com/p/712065889)
-[408历年真题解析（草稿）](https://zhuanlan.zhihu.com/p/3484668199)
-[408易错/冷门知识点、概念总结和补充](https://zhuanlan.zhihu.com/p/716450750)
+- [考研408：数据结构算法题题单](https://zhuanlan.zhihu.com/p/712065889)
+- [408历年真题解析（草稿）](https://zhuanlan.zhihu.com/p/3484668199)
+- [408易错/冷门知识点、概念总结和补充](https://zhuanlan.zhihu.com/p/716450750)
 
 
 
@@ -101,11 +101,11 @@
 资料来自哈工群友整理
 
 ### 参考
-[【考研】2021年哈尔滨工业大学计算机考研「复试」经验贴](https://blog.csdn.net/Stu_YangPeng/article/details/114703203)
-[2024二本上岸哈工大计算机个人回忆录](https://zhuanlan.zhihu.com/p/691893927)
-[全网最详细的哈工大计算机-机试经验贴｜跨考｜小白｜均可放心食用](https://zhuanlan.zhihu.com/p/342102658)
-[计算机历年考研复试上机题](https://www.nowcoder.com/ta/hit-kaoyan)
-[公众号DASOU资源汇总](https://docs.qq.com/doc/DYWdjYmNUbmpmUXlv)
-[中文文本分类 pytorch实现](https://zhuanlan.zhihu.com/p/73176084)
+- [【考研】2021年哈尔滨工业大学计算机考研「复试」经验贴](https://blog.csdn.net/Stu_YangPeng/article/details/114703203)
+- [2024二本上岸哈工大计算机个人回忆录](https://zhuanlan.zhihu.com/p/691893927)
+- [全网最详细的哈工大计算机-机试经验贴｜跨考｜小白｜均可放心食用](https://zhuanlan.zhihu.com/p/342102658)
+- [计算机历年考研复试上机题](https://www.nowcoder.com/ta/hit-kaoyan)
+- [公众号DASOU资源汇总](https://docs.qq.com/doc/DYWdjYmNUbmpmUXlv)
+- [中文文本分类 pytorch实现](https://zhuanlan.zhihu.com/p/73176084)
 
 
