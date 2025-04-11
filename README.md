@@ -112,5 +112,5 @@
 - [计算机历年考研复试上机题](https://www.nowcoder.com/ta/hit-kaoyan)
 - [公众号DASOU资源汇总](https://docs.qq.com/doc/DYWdjYmNUbmpmUXlv)
 - [中文文本分类 Pytorch实现](https://zhuanlan.zhihu.com/p/73176084)
-
+- [哈尔滨工业大学计算机课程资料与实验](https://github.com/HITLittleZheng/HITCS)
 
