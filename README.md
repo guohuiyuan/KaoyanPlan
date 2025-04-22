@@ -114,4 +114,5 @@
 - [公众号DASOU资源汇总](https://docs.qq.com/doc/DYWdjYmNUbmpmUXlv)
 - [中文文本分类 Pytorch实现](https://zhuanlan.zhihu.com/p/73176084)
 - [哈尔滨工业大学计算机课程资料与实验](https://github.com/HITLittleZheng/HITCS)
+- [高校github课程资源汇总](https://www.cnblogs.com/tellw/p/17028424.html)
 
